@@ -35,14 +35,18 @@ body {
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
+	
+	}
+.language-progress {
+    background-color:#F8F87F;
 }
+
 
 .language-level {
     background-color:  #56D7F7;
     border-color:  #56D7F7;
+
 }
-
-
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
