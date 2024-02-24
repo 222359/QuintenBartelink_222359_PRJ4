@@ -1,9 +1,3 @@
-/* Use this file to use your own styles*/
-
-/* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-/* Styles for the body */
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -11,7 +5,7 @@ body {
 	background-color: #f8f8fc;
 }
 
-/* Styles for custom classes in the document. (There are more, try to find them out!) */
+
 
 .resume-header {
     background-color: #2379c5;
@@ -25,7 +19,7 @@ body {
 	background-color: #e1f0fd;
 }
 
-/* Styles for lists in the document */
+
 
 .biography-details li::before, .skill-list li::before {
 	content: ">";
@@ -43,7 +37,11 @@ body {
 	padding-left: 1em;
 }
 
-/* Styles for contact icons */
+.language-level {
+    background-color:  #56D7F7;
+    border-color:  #56D7F7;
+}
+
 
 .contact-icon {
 	height: 1em;
