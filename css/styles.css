@@ -1,6 +1,6 @@
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Trebuchet MS', sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -12,11 +12,11 @@ body {
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #e1f0fd;
 }
 
 .resume-aside {
-	background-color: #e1f0fd;
+	background-color: #fffefc;
 }
 
 
@@ -43,8 +43,8 @@ body {
 
 
 .language-level {
-    background-color:  #56D7F7;
-    border-color:  #56D7F7;
+    background-color:  #A1D1FC;
+    border-color:  #A1D1FC;
 
 }
 .contact-icon {
