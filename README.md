@@ -4,7 +4,7 @@ A template to create a CV while learning HTML and CSS
 
 ## See it live!
 
-Click on <https://github.com/222359/QuintenBartelink_222359_PRJ4> to see what the résumé looks like when published!
+Click on <https://222359.github.io/QuintenBartelink_222359_PRJ4/> to see what the résumé looks like when published!
 
 ## Create your own CV
 
