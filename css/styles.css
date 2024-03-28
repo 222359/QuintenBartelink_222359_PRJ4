@@ -1,8 +1,13 @@
 
 body {
-	font-family: 'Times New Roman', serif;
+	font-family: 'Josefin Sans', sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
+}
+
+h1, h2 {
+	
+	color:darkorchid;
 }
 
 
